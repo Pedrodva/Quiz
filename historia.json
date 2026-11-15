@@ -1,0 +1,157 @@
+{
+  "id": "historia",
+  "titulo": "Historia",
+  "color": "amarillo",
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "respuestas": ["1905", "1914", "1918", "1939"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién fue el primer emperador romano?",
+      "respuestas": ["Julio César", "Nerón", "Augusto", "Trajano"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+      "respuestas": ["1450", "1492", "1500", "1510"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año cayó el Muro de Berlín?",
+      "respuestas": ["1961", "1975", "1989", "1991"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue conocido como el Libertador de Venezuela, Colombia, Ecuador, Perú y Bolivia?",
+      "respuestas": ["Francisco de Miranda", "Simón Bolívar", "José de San Martín", "Bernardo O'Higgins"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién completó la primera vuelta al mundo tras la muerte de Magallanes?",
+      "respuestas": ["Vasco da Gama", "Juan Sebastián Elcano", "John Cabot", "James Cook"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+      "respuestas": ["1676", "1776", "1783", "1812"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué faraón ordenó construir la Gran Pirámide de Guiza?",
+      "respuestas": ["Ramsés II", "Tutankamón", "Keops", "Akenatón"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué civilización construyó Machu Picchu?",
+      "respuestas": ["Mayas", "Aztecas", "Incas", "Olmecas"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué tratado de 1494 dividió las tierras recién descubiertas entre España y Portugal?",
+      "respuestas": ["Tratado de Utrecht", "Tratado de Tordesillas", "Paz de Westfalia", "Tratado de Versalles"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál era la capital del Imperio azteca?",
+      "respuestas": ["Cusco", "Tenochtitlan", "Teotihuacán", "Chichén Itzá"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "respuestas": ["1943", "1944", "1945", "1946"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué reina de Egipto, de la dinastía ptolemaica, se relacionó con Julio César?",
+      "respuestas": ["Nefertari", "Hatshepsut", "Cleopatra VII", "Teodora"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿En qué año estalló la Revolución Francesa con la toma de la Bastilla?",
+      "respuestas": ["1776", "1789", "1799", "1815"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué imperio fundó Gengis Kan?",
+      "respuestas": ["Otomano", "Mongol", "Persa", "Bizantino"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+      "respuestas": ["Thomas Jefferson", "John Adams", "George Washington", "Abraham Lincoln"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿En qué año cayó Constantinopla en manos otomanas?",
+      "respuestas": ["1386", "1453", "1492", "1521"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué país gobernó el dictador Francisco Franco?",
+      "respuestas": ["Portugal", "Italia", "España", "Grecia"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el último emperador de China?",
+      "respuestas": ["Guangxu", "Puyi", "Cixi", "Kangxi"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año se independizó Brasil de Portugal?",
+      "respuestas": ["1810", "1822", "1850", "1889"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué conflicto enfrentó a las trece colonias con Gran Bretaña?",
+      "respuestas": ["Guerra de los Siete Años", "Guerra de Independencia de Estados Unidos", "Guerra de Secesión", "Guerra Civil Inglesa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió El Capital?",
+      "respuestas": ["Friedrich Engels", "Karl Marx", "Vladímir Lenin", "Georg Hegel"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año se firmó la Carta Magna en Inglaterra?",
+      "respuestas": ["1066", "1215", "1314", "1381"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué batalla de 1066 cambió el curso de la historia de Inglaterra?",
+      "respuestas": ["Waterloo", "Hastings", "Agincourt", "Bosworth"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué imperio tuvo como capital Constantinopla hasta 1453?",
+      "respuestas": ["Otomano", "Bizantino", "Sasánida", "Persa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué año marcó la disolución de la Unión Soviética?",
+      "respuestas": ["1985", "1989", "1991", "1995"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién fue el primer ser humano en pisar la Luna?",
+      "respuestas": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué conquistador español capturó al inca Atahualpa en 1532?",
+      "respuestas": ["Hernán Cortés", "Francisco Pizarro", "Pedro de Valdivia", "Diego de Almagro"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué año se unificó Alemania como imperio?",
+      "respuestas": ["1848", "1871", "1890", "1914"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué líder impulsó la independencia de la India mediante la resistencia no violenta?",
+      "respuestas": ["Jawaharlal Nehru", "Mahatma Gandhi", "B. R. Ambedkar", "Bal Gangadhar Tilak"],
+      "correcta": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+    "id": "geografia",
+    "titulo": "Geografía",
+    "color": "azul",
+    "preguntas": [{
+            "pregunta": "¿Cuál es el río más largo de Europa?",
+            "respuestas": ["Danubio", "Volga", "Rin", "Támesis"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Australia?",
+            "respuestas": ["Sídney", "Melbourne", "Canberra", "Brisbane"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué país tiene la mayor población del mundo en la actualidad?",
+            "respuestas": ["China", "India", "Estados Unidos", "Indonesia"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el desierto cálido más grande del mundo?",
+            "respuestas": ["Gobi", "Kalahari", "Sáhara", "Atacama"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es el país más pequeño del mundo?",
+            "respuestas": ["Mónaco", "Nauru", "Ciudad del Vaticano", "San Marino"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es el lago más profundo del mundo?",
+            "respuestas": ["Titicaca", "Baikal", "Victoria", "Superior"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué océano es el más grande de la Tierra?",
+            "respuestas": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+            "respuestas": ["K2", "Monte Everest", "Aconcagua", "Kilimanjaro"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué país europeo tiene forma de bota?",
+            "respuestas": ["Grecia", "Italia", "Portugal", "Dinamarca"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Canadá?",
+            "respuestas": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Por qué ciudad atraviesa el río Sena?",
+            "respuestas": ["Londres", "Roma", "París", "Berlín"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es el país más extenso del mundo?",
+            "respuestas": ["Canadá", "China", "Rusia", "Estados Unidos"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué país es conocido como la \"tierra del sol naciente\"?",
+            "respuestas": ["Corea del Sur", "Japón", "Tailandia", "Vietnam"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué río atraviesa Egipto?",
+            "respuestas": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudadela de Machu Picchu?",
+            "respuestas": ["Bolivia", "Ecuador", "Perú", "Colombia"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Mongolia?",
+            "respuestas": ["Astaná", "Ulán Bator", "Bishkek", "Taskent"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué mar separa Europa de África?",
+            "respuestas": ["Mar Negro", "Mar Rojo", "Mar Mediterráneo", "Mar Caspio"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuántos países forman el Reino Unido?",
+            "respuestas": ["2", "3", "4", "5"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Nueva Zelanda?",
+            "respuestas": ["Auckland", "Wellington", "Christchurch", "Dunedin"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿En qué continente se encuentra el desierto de Atacama?",
+            "respuestas": ["África", "América del Sur", "Asia", "Australia"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué cordillera recorre la costa oeste de América del Sur?",
+            "respuestas": ["Pirineos", "Himalaya", "Alpes", "Andes"],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué país es el mayor productor mundial de café?",
+            "respuestas": ["Colombia", "Vietnam", "Brasil", "Etiopía"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Turquía?",
+            "respuestas": ["Estambul", "Ankara", "Esmirna", "Bursa"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el río con mayor caudal del mundo?",
+            "respuestas": ["Congo", "Misisipi", "Amazonas", "Yangtsé"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿En qué país se encuentra el Cabo de Buena Esperanza?",
+            "respuestas": ["Namibia", "Sudáfrica", "Mozambique", "Madagascar"],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Argentina?",
+            "respuestas": ["Montevideo", "Santiago", "Buenos Aires", "Asunción"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué estrecho separa Europa de África en el extremo occidental del Mediterráneo?",
+            "respuestas": ["Bósforo", "Ormuz", "Gibraltar", "Malaca"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué país, famoso por sus fiordos, tiene a Oslo como capital?",
+            "respuestas": ["Suecia", "Finlandia", "Noruega", "Islandia"],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué país africano tiene la mayor superficie?",
+            "respuestas": ["Nigeria", "Sudán", "Egipto", "Argelia"],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Portugal?",
+            "respuestas": ["Oporto", "Lisboa", "Madrid", "Sevilla"],
+            "correcta": 1
+        }
+    ]
+}

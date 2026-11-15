@@ -1,0 +1,157 @@
+{
+  "id": "arte",
+  "titulo": "Arte y Literatura",
+  "color": "marrón",
+  "preguntas": [
+    {
+      "pregunta": "¿Quién pintó La noche estrellada?",
+      "respuestas": ["Monet", "Van Gogh", "Dalí", "Picasso"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió Cien años de soledad?",
+      "respuestas": ["Mario Vargas Llosa", "Julio Cortázar", "Gabriel García Márquez", "Jorge Luis Borges"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+      "respuestas": ["Lope de Vega", "Miguel de Cervantes", "Francisco de Quevedo", "Luis de Góngora"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién pintó el Guernica?",
+      "respuestas": ["Dalí", "Miró", "Pablo Picasso", "Goya"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién compuso la Novena Sinfonía?",
+      "respuestas": ["Mozart", "Bach", "Beethoven", "Chopin"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿En qué museo de París se encuentra la Mona Lisa?",
+      "respuestas": ["Museo de Orsay", "Louvre", "Museo del Prado", "Centro Pompidou"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió Romeo y Julieta?",
+      "respuestas": ["Christopher Marlowe", "Shakespeare", "Cervantes", "Dante"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió La Odisea?",
+      "respuestas": ["Virgilio", "Homero", "Ovidio", "Hesíodo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién pintó Las Meninas?",
+      "respuestas": ["Goya", "El Greco", "Velázquez", "Murillo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿De qué país es el escritor Haruki Murakami?",
+      "respuestas": ["China", "Japón", "Corea del Sur", "Vietnam"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió la novela 1984?",
+      "respuestas": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Franz Kafka"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué pintó Leonardo da Vinci en el refectorio del convento de Santa Maria delle Grazie?",
+      "respuestas": ["El nacimiento de Venus", "La última cena", "El David", "La creación de Adán"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién esculpió el David de Florencia?",
+      "respuestas": ["Donatello", "Bernini", "Miguel Ángel", "Rodin"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién escribió Crimen y castigo?",
+      "respuestas": ["Tolstói", "Dostoievski", "Chéjov", "Pushkin"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿A qué movimiento artístico pertenece Salvador Dalí?",
+      "respuestas": ["Cubismo", "Impresionismo", "Surrealismo", "Dadaísmo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién escribió El principito?",
+      "respuestas": ["Albert Camus", "Antoine de Saint-Exupéry", "Victor Hugo", "Jules Verne"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué compositor escribió Las cuatro estaciones?",
+      "respuestas": ["Vivaldi", "Händel", "Haydn", "Corelli"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿En qué ciudad nació Pablo Picasso?",
+      "respuestas": ["Madrid", "Barcelona", "Málaga", "Sevilla"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién escribió Orgullo y prejuicio?",
+      "respuestas": ["Charlotte Brontë", "Jane Austen", "Mary Shelley", "George Eliot"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió el drama Fausto?",
+      "respuestas": ["Schiller", "Goethe", "Thomas Mann", "Heinrich Heine"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién pintó El jardín de las delicias?",
+      "respuestas": ["Brueghel", "El Bosco", "Van Eyck", "Rubens"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué escritor argentino publicó la novela Rayuela?",
+      "respuestas": ["Jorge Luis Borges", "Julio Cortázar", "Adolfo Bioy Casares", "Ernesto Sabato"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién compuso la ópera La flauta mágica?",
+      "respuestas": ["Verdi", "Mozart", "Wagner", "Puccini"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué escritora chilena ganó el Premio Nobel de Literatura en 1945?",
+      "respuestas": ["Isabel Allende", "Gabriela Mistral", "María Luisa Bombal", "Pablo Neruda"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué pintor surrealista es famoso por sus relojes blandos?",
+      "respuestas": ["Magritte", "Dalí", "Miró", "Max Ernst"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Quién escribió Moby Dick?",
+      "respuestas": ["Mark Twain", "Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué estilo arquitectónico caracteriza la obra de Gaudí en la Sagrada Familia?",
+      "respuestas": ["Gótico", "Barroco", "Modernismo", "Neoclasicismo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién escribió La metamorfosis?",
+      "respuestas": ["Thomas Mann", "Franz Kafka", "Robert Musil", "Hermann Hesse"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se titula el cuadro de Munch con una figura gritando en un paisaje rojizo?",
+      "respuestas": ["La niña de la perla", "El grito", "Las Meninas", "El beso"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué pintor impresionista realizó la serie de los nenúfares?",
+      "respuestas": ["Renoir", "Degas", "Claude Monet", "Pissarro"],
+      "correcta": 2
+    }
+  ]
+}

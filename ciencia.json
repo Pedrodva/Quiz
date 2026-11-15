@@ -1,0 +1,157 @@
+{
+  "id": "ciencia",
+  "titulo": "Ciencia y Naturaleza",
+  "color": "verde",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "respuestas": ["Saturno", "Júpiter", "Neptuno", "Urano"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "respuestas": ["Ag", "Go", "Au", "Or"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos huesos tiene un adulto aproximadamente?",
+      "respuestas": ["186", "206", "226", "256"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+      "respuestas": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Helio"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "respuestas": ["30.000 km/s", "300.000 km/s", "3.000.000 km/s", "3.000 km/s"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué científico formuló la teoría de la relatividad general?",
+      "respuestas": ["Newton", "Bohr", "Einstein", "Planck"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "respuestas": ["Hígado", "Corazón", "Piel", "Intestino"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué elemento tiene el símbolo Fe?",
+      "respuestas": ["Flúor", "Fósforo", "Hierro", "Fermio"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el animal terrestre más rápido?",
+      "respuestas": ["León", "Guepardo", "Antílope", "Caballo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "respuestas": ["Venus", "Mercurio", "Marte", "Júpiter"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "respuestas": ["Hierro", "Aluminio", "Cobre", "Titanio"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué vitamina produce el cuerpo cuando la piel recibe luz solar?",
+      "respuestas": ["Vitamina A", "Vitamina B12", "Vitamina C", "Vitamina D"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula química del agua?",
+      "respuestas": ["CO2", "H2O", "NaCl", "O2"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos cromosomas tiene una célula humana normal?",
+      "respuestas": ["23", "36", "46", "64"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Quién descubrió la penicilina?",
+      "respuestas": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Marie Curie"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de animal es el ornitorrinco?",
+      "respuestas": ["Reptil", "Mamífero ovíparo", "Ave", "Anfibio"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "respuestas": ["Húmero", "Tibia", "Fémur", "Radio"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué científica ganó dos premios Nobel en disciplinas distintas?",
+      "respuestas": ["Lise Meitner", "Marie Curie", "Rosalind Franklin", "Ada Lovelace"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿En qué parte de la célula eucariota se encuentra el ADN?",
+      "respuestas": ["Membrana", "Ribosoma", "Núcleo", "Mitocondria"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cómo se llama el paso del agua de estado líquido a gaseoso?",
+      "respuestas": ["Condensación", "Sublimación", "Evaporación", "Fusión"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el animal más grande que ha existido?",
+      "respuestas": ["Elefante africano", "Ballena azul", "Jirafa", "Megalodón"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos colores tiene el arcoíris según la clasificación habitual?",
+      "respuestas": ["5", "6", "7", "8"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "respuestas": ["Oxígeno", "Nitrógeno", "Argón", "Dióxido de carbono"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué científico propuso la teoría de la evolución por selección natural?",
+      "respuestas": ["Lamarck", "Darwin", "Mendel", "Pasteur"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuántos corazones tiene un pulpo?",
+      "respuestas": ["1", "2", "3", "4"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué unidad mide la intensidad de la corriente eléctrica?",
+      "respuestas": ["Voltio", "Ohmio", "Amperio", "Vatio"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué planeta tiene los anillos más visibles?",
+      "respuestas": ["Urano", "Saturno", "Neptuno", "Júpiter"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el elemento más abundante del universo?",
+      "respuestas": ["Helio", "Oxígeno", "Hidrógeno", "Carbono"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué órgano bombea la sangre por el cuerpo?",
+      "respuestas": ["Pulmón", "Riñón", "Corazón", "Hígado"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el número atómico del carbono?",
+      "respuestas": ["4", "6", "8", "12"],
+      "correcta": 1
+    }
+  ]
+}

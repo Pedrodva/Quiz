@@ -1,0 +1,87 @@
+body {
+    font-family: system-ui, sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: #1e1b2e;
+    color: #fff;
+}
+
+.menu {
+    text-align: center;
+    padding: 2rem;
+}
+
+.botones {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    min-width: min(90vw, 320px);
+}
+
+.boton-categoria {
+    padding: 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.azul {
+    background: #2b6cb0;
+}
+
+.amarillo {
+    background: #d69e2e;
+    color: #1a1a1a;
+}
+
+.verde {
+    background: #2f855a;
+}
+
+.marron {
+    background: #7b4a2a;
+}
+
+.rosa {
+    background: #d53f8c;
+}
+
+.boton-categoria:hover {
+    filter: brightness(1.15);
+    transform: scale(1.03);
+    transition: transform 0.15s, filter 0.15s;
+}
+
+.respuesta {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.8rem;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    background: #3b3553;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.respuesta.seleccionada {
+    border-color: #fff;
+}
+
+.respuesta:disabled {
+    cursor: default;
+}
+
+.respuesta.correcta {
+    background: #2f855a;
+}
+
+.respuesta.incorrecta {
+    background: #c53030;
+}
